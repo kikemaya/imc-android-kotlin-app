@@ -11,4 +11,9 @@
 
     <color name="background_fab">#FF6200EE</color>
 
+    <color name="low_weight">#FFEB3B</color>
+    <color name="normal_weight">#4CAF50</color>
+    <color name="over_weight">#FF5722</color>
+    <color name="obesity_weight">#FF1100</color>
+
 </resources>

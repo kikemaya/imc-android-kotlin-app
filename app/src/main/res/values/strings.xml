@@ -10,4 +10,23 @@
     <string name="age">age</string>
 
     <string name="calculate">calculate</string>
+
+    <string name="result">Your result</string>
+
+    <string name="recalculate">Re-calculate</string>
+
+    <string name="error">Error</string>
+
+    <string name="low_weight_title">LOW WEIGHT</string>
+    <string name="low_weight_description">You are under your ideal weight</string>
+
+    <string name="title_normal">NORMAL WEIGHT</string>
+    <string name="normal_weight_description">You are in your ideal weight</string>
+
+    <string name="overweight_title">LOW WEIGHT</string>
+    <string name="overweight_description">You are over your ideal weight</string>
+
+    <string name="obesity_title">LOW WEIGHT</string>
+    <string name="obesity_description">You are very over your ideal weight</string>
+
 </resources>
