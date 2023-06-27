@@ -4,4 +4,10 @@
     <string name="female">female</string>
 
     <string name="height">height</string>
+
+    <string name="weight">weight</string>
+
+    <string name="age">age</string>
+
+    <string name="calculate">calculate</string>
 </resources>
